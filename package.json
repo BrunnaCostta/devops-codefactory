@@ -1,0 +1,23 @@
+{
+  "name": "devops-codefactory",
+  "version": "1.0.0",
+  "description": "Este projeto foi desenvolvido para a disciplina de **DevOps e Integração Contínua** do Centro Universitário Internacional Uninter.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunnaCostta/devops-codefactory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunnaCostta/devops-codefactory/issues"
+  },
+  "homepage": "https://github.com/BrunnaCostta/devops-codefactory#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
