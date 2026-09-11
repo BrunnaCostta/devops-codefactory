@@ -14,41 +14,31 @@ Por isso, neste projeto foram aplicadas algumas práticas de DevOps com o objeti
 
 ## Objetivo
 
-O principal objetivo deste projeto é demonstrar, na prática, como a cultura DevOps pode ajudar a melhorar o desenvolvimento de software.
-
-Durante o projeto serão aplicados os seguintes conceitos:
-
-* Versionamento de código com Git;
-* Utilização do GitHub como repositório remoto;
-* Criação e utilização de branches;
-* Utilização de Pull Requests;
-* Realização de merges;
-* Resolução de conflitos;
-* Organização do projeto no GitHub;
-* Utilização do Docker;
-* Criação de uma pipeline de Integração Contínua;
-* Utilização de testes automatizados.
+Demonstração prática do ciclo de vida de desenvolvimento de software moderno mediante a implementação da cultura DevOps. O projeto visa validar a automação de entregas por meio de controle de versão distribuído (Git/GitHub), padronização de ambientes com conteinerização (Docker) e governança de código através de pipelines de Integração Contínua (CI) integradas a testes automatizados.
 
 ## Tecnologias utilizadas
 
 As principais tecnologias e ferramentas utilizadas neste projeto são:
 
-* Git
-* GitHub
-* Docker
-* GitHub Actions
-* Node.js
-* JavaScript
-* Jest
+JavaScript (Node.js): Linguagem base e ambiente de execução da aplicação.
+
+Git & GitHub: Versionamento de código, fluxo de branches, pull requests e colaboração.
+
+Docker: Criação de contêineres para padronização e isolamento do ambiente de execução.
+
+GitHub Actions: Orquestração da pipeline de CI para automação do ciclo de compilação e teste.
+
+Jest: Framework de testes para garantia de qualidade e automação da suíte de testes.
 
 Também serão utilizados alguns recursos disponíveis no GitHub, como:
 
-* Issues;
-* Labels;
-* Milestones;
-* Projects;
-* Wiki;
-* Insights.
+GitHub Projects & Milestones: Estruturação de quadros de trabalho (Kanban/Scrum) e gestão do ciclo de vida das entregas por etapas.
+
+Issues & Labels: Mapeamento formal de demandas, controle de erros e categorização padronizada do fluxo de desenvolvimento.
+
+GitHub Wiki: Manutenção da documentação oficial, decisões de arquitetura e guias de instalação/contribuição.
+
+GitHub Insights: Monitoramento estatístico da saúde do projeto, padrão de commits e produtividade da equipe.
 
 ## Estrutura do projeto
 
