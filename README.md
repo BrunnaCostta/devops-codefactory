@@ -169,4 +169,6 @@ Dessa forma, é possível identificar erros mais rapidamente antes de integrar n
 
 Este projeto tem como objetivo demonstrar de forma prática a utilização de algumas ferramentas e conceitos relacionados à cultura DevOps.
 
+Atualização de validação do fluxo de versionamento e publicação em 2026-09-13.
+
 A aplicação dessas práticas ajuda a melhorar a organização do projeto, o controle das alterações, a colaboração entre desenvolvedores e a automação de tarefas durante o desenvolvimento.
