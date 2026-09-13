@@ -1,6 +1,7 @@
 {
   "name": "devops-codefactory",
-  "version": "1.0.0",
+  "version": "1.1.0",
+  "private": true,
   "description": "Projeto desenvolvido para a disciplina de DevOps e Integração Contínua do Centro Universitário Internacional UNINTER.",
   "main": "src/server.js",
   "scripts": {
